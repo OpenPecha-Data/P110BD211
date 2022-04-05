@@ -1,0 +1,31 @@
+id: P110BD211
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1PD105804
+  instance_id: http://purl.bdrc.io/resource/IE1PD105804
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རུས་སྦྱོར་གཡུ་ཐོག་དགྱེས་པའི་མཆོད་སྤྲིན།
+  alt_title:
+    en-x-mixed:
+    - Rus sbyor Gʹyu-thog dgyes paʼi mchod sprin /Gdugs-dkar-sgrol-mas brtsams.
+  author: http://purl.bdrc.io/resource/P1CZ851
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    b4371d585cec4c378ab58cb0bc6b3621:
+      title: པོད ༡་རུས་སྦྱོར་གཡུ་ཐོག་དགྱེས་པའི་མཆོད་སྤྲིན།
+      volume_number: 1
+      base_file: UT1PD105804_I1PD105806_0000.txt
+      reference: http://purl.bdrc.io/resource/VL49A3656D6842AA71
+      image_group: I1PD105806
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1PD105804
+  - http://purl.bdrc.io/resource/MW1PD105804
+  ocr_software: Namsel
+created_at: '2021-12-22T11:02:00.954382'
+last_modified_at: '2021-12-22T11:02:00.954394'
